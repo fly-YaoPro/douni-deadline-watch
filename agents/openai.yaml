@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户与承诺待办 DDL 提醒"
+  short_description: "识别客户要求与同事承诺，生成可回收的 DDL 待办卡片"
+  default_prompt: "使用 $douni-deadline-watch 汇总双周未完成待办，并按规则生成飞书 DDL 提醒卡片。"
